@@ -9,5 +9,7 @@
     + [点餐软件商家端(web网页)代码仓库](https://github.com/ChickenDinner8/Client-Merchant)
     + [点餐软件服务端(server)代码仓库](https://github.com/ChickenDinner8/Server)
 4. 《软件需求规格说明书》（SRS）
+    - [软件需求规格说明书](https://github.com/ChickenDinner8/SDP-document/blob/master/Documents/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6.md)
 5. 《软件设计文档》 （SDS）
 6. 《小组分工与贡献率说明》
+
