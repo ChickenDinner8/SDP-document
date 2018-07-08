@@ -4,7 +4,7 @@
 1. 安装包与《安装部署说明》
     + [安装部署说明](https://github.com/ChickenDinner8/SDP-document/blob/master/Documents/%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%B4%E6%98%8E.md)
 2. 《用户手册》/《使用说明》
-    - [客户端用户手册](https://github.com/ChickenDinner8/SDP-document/blob/master/Documents/%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.md)
+    - [顾客端用户手册](https://github.com/ChickenDinner8/SDP-document/blob/master/Documents/%E9%A1%BE%E5%AE%A2%E7%AB%AF%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.md)
     - [商家端用户手册](https://github.com/ChickenDinner8/SDP-document/blob/master/Documents/%E5%95%86%E5%AE%B6%E7%AB%AF%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.md)
 3. 所有源代码
     + [点餐软件客户端(微信小程序)代码仓库](https://github.com/ChickenDinner8/Client-Customer)
